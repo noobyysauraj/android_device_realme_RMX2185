@@ -1,0 +1,3 @@
+# Fluid specific props
+ro.fluid.maintainer=SAURAJ
+ro.fluid.cpu=mt6765
